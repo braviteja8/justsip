@@ -1,2 +1,2 @@
 just an edit.
-Added something via main repo.
+Added something via main repository.
